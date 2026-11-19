@@ -2,7 +2,14 @@
 
 A retro, pixel-art Sokoban game with a built-in AI that solves the puzzles for you or gives you a hint.
 
-**▶ Play it: https://harshilmayurpatel.github.io/Sokoban-AI-Solver/**
+<p align="center">
+  <a href="https://harshilmayurpatel.github.io/Sokoban-AI-Solver/"><b>▶ PLAY THE LIVE GAME</b></a><br />
+  <sub>Runs in any browser, on desktop or phone. Nothing to install.</sub>
+</p>
+
+<p align="center">
+  <a href="https://harshilmayurpatel.github.io/Sokoban-AI-Solver/"><img src="docs/screenshot.png" alt="Sokoban level 12 mid-game: two crates on goals, and the AI hint showing a dotted walking path and an arrow on the next crate to push" width="560" /></a>
+</p>
 
 Push every crate onto a glowing target. If you get stuck, the AI searches the puzzle's state space and shows your next push, or plays the whole level out.
 
